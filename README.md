@@ -10,6 +10,8 @@ Using natural language, users can be freed from trying to recall exactly how dat
 ## Reference Blog Post
 https://blog.beezwax.net/filemaker-semantic-search-part-1-fundamental-power/
 
+https://blog.beezwax.net/filemaker-semantic-search-part-2-key-details/
+
 ## Quickstart
 This tutorial file requires FileMaker 2024 (v21.x).
 
