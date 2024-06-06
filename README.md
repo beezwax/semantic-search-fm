@@ -7,7 +7,7 @@ Requires FileMaker 2024 (v21.x)
 FileMaker 2024 delivers native semantic search, and it’s awesome. Now you can search records whose text is similar to the semantic meaning of your search term, even if those records don’t include your exact search term. 
 Using natural language, users can be freed from trying to recall exactly how data was input.
 
-## Reference Blog Post
+## Reference Blog Posts
 https://blog.beezwax.net/filemaker-semantic-search-part-1-fundamental-power/
 
 https://blog.beezwax.net/filemaker-semantic-search-part-2-key-details/
