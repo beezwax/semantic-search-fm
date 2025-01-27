@@ -22,4 +22,4 @@ You'll need to supply your own AI credentials to use the file (via the gear icon
 If you employ credentials that aren't from OpenAI, you'll also need to configure the LLM Embedding Model field and execute the embeddings script (to build embeddings compatible with the embedding model you've chosen).
 
 
-Copyright © 2024 Beezwax Datatools, Inc.
+Copyright © 2025 Beezwax Datatools, Inc.
